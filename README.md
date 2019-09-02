@@ -11,4 +11,14 @@ Using LittleJIL to model the election and then processing that model
 ![](https://github.com/achen173/LittleJIL_ElectionModel/blob/master/JIL_model.JPG)
 
 ## Example of a Model Processing(fault tree analysis)
-![](https://github.com/achen173/LittleJIL_ElectionModel/blob/master/JIL_model.JPG)
+![](https://github.com/achen173/LittleJIL_ElectionModel/blob/master/FaultTreeExample.JPG)
+
+More [Examples](https://collab.cs.umass.edu/wiki/projects/laser_library/laser_library.html) using Little-JIL
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Acknowledgements
+This project was worked on together by me and a CS graduate student and with the help of my professors. 
