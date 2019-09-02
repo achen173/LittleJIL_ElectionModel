@@ -7,4 +7,8 @@ Using LittleJIL to model the election and then processing that model
 * Clone .JUL file and [import](https://collab.cs.umass.edu/wiki/pages/K0B4L3v/Importing_an_existing_LittleJIL_project.html) it in JUNO
 * To process the model install [Little-JIL Analyzer](http://laser.cs.umass.edu/release/)
 
-## Example of the Model
+## Example of the Election Model
+![](https://github.com/achen173/LittleJIL_ElectionModel/blob/master/JIL_model.JPG)
+
+## Example of a Model Processing(fault tree analysis)
+![](https://github.com/achen173/LittleJIL_ElectionModel/blob/master/JIL_model.JPG)
